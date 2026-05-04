@@ -12,7 +12,7 @@ from openai import OpenAI    # Official OpenAI Python SDK
 # Sets the browser tab title and layout of the app
 # ============================================================
 st.set_page_config(
-    page_title="Social Media Content Generator",
+    page_title="Eti's Content Generator",
     page_icon="📢",
     layout="centered"
 )
